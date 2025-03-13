@@ -1,6 +1,6 @@
 # 🌟 Solara - The Ultimate Keyless & Free Executor! 🚀
 
-** ✅ No Key System | 🛡️ 100% Malware-Free | 🔥 Easy to Use **
+**✅ No Key System | 🛡️ 100% Malware-Free | 🔥 Easy to Use**
 
 # 🔧 How to Install
 
