@@ -32,7 +32,7 @@ Now you're ready to install! 🚀
 ⚠️ Some executors get falsely detected. Just disable Windows Defender before installing.
 
 💬 Q: Where can I get support?
-📌 Join our Discord server for updates and help: discord.gg/yourserver (Replace with your link!)
+📌 Join our Discord server for updates and help: discord.gg/get-solara
 
 🔥 Enjoy Exploiting with Solara! 🚀
 Made with ❤️ by Solara team
